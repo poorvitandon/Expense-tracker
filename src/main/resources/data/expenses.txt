@@ -1,0 +1,3 @@
+Food,250
+Travel,120
+Books,300
